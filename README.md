@@ -11,3 +11,6 @@ Make *UnityPackageExtract.sh* script executable, if script and package are in th
 ./UnityPackageExtract.sh "SomePackage.unitypackage"
 ```
 Package will be extracted to new folder located in same directory from where the script was called
+
+
+_-Code originally taken from this coding article:_  [dev.to/tsjost/](https://dev.to/tsjost/extracting-content-from-unity-packages-in-terminal-301d)
